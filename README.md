@@ -21,3 +21,4 @@ A deep convolutional neural network (CNN) model has been trained on a comprehens
 
 ## Demo
 
+https://github.com/hashirbhatti/Cotton-Plant-Disease/assets/77647802/bbd64f6a-4ecf-44a7-894f-fecaa61da07f
