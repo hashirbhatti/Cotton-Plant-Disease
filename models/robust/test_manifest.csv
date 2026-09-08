@@ -1,0 +1,869 @@
+filepath,source,source_group,class_name,label,is_plant,split,unknown_subtype,source_id
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/11.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/25.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/9.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_brightness_16.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_brightness_2.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_brightness_24_.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_brightness_35.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_brightness_4.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_color_24_.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_color_27.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_color_33.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_color_38.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_color_4.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_constract_12.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_constract_18.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_constract_23.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_constract_33.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_constract_40.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_constract_8.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_sharpness_24_.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_sharpness_28.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/pil_sharpness_33.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_17.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_21.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_22_.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_31.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_brightness_13.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_brightness_21.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_brightness_23.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_brightness_38.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_color_19.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_color_31.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_color_32.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_constract_11.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_constract_27.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_constract_28.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_constract_3.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_constract_7.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_constract_8.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_constract_9.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_sharpness_14.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_sharpness_2.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_sharpness_28.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_sharpness_37.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/random_crop_pil_sharpness_40.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoom18.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoom2.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoom26.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoom28.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoom40.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoompil_brightness_2.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoompil_brightness_32.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoompil_color_13.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoompil_color_31.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoompil_color_4.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoompil_color_5.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoompil_constract_19.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoompil_constract_25.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoompil_constract_31.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoompil_constract_5.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoompil_constract_9.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoompil_sharpness_18.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoompil_sharpness_24_.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoompil_sharpness_3.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoompil_sharpness_35.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoompil_sharpness_5.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/rotate_zoompil_sharpness_6.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/vertical_flip17.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/vertical_flip37.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/vertical_flip8.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/vertical_flippil_color_1.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/vertical_flippil_color_23.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/vertical_flippil_color_7.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/vertical_flippil_constract_1.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/vertical_flippil_constract_25.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/vertical_flippil_sharpness_10.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/vertical_flippil_sharpness_14.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Aphids/vertical_flippil_sharpness_7.jpg,cotton,cotton::Aphids,Aphids,0,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/13.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/24.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/29.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/30.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/39.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/pil_brightness_10.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/pil_brightness_18.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/pil_brightness_20.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/pil_brightness_25.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/pil_brightness_31.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/pil_color_27.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/pil_color_28.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/pil_color_40.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/pil_constract_11.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/pil_constract_31.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/pil_constract_33.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/pil_constract_38.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/pil_constract_4.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/pil_sharpness_22.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_14.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_17.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_22.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_27.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_38.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_pil_brightness_4.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_pil_color_12.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_pil_color_2.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_pil_color_20.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_pil_color_26.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_pil_color_29.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_pil_color_5.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_pil_constract_21.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_pil_constract_3.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_pil_constract_32.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_pil_constract_4.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_pil_sharpness_25.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_pil_sharpness_27.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_pil_sharpness_3.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_pil_sharpness_34.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/random_translation_pil_sharpness_7.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/rotate_zoom27.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/rotate_zoom32.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/rotate_zoompil_brightness_11.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/rotate_zoompil_brightness_28.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/rotate_zoompil_brightness_3.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/rotate_zoompil_brightness_34.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/rotate_zoompil_color_1.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/rotate_zoompil_constract_3.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/rotate_zoompil_constract_32.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/rotate_zoompil_constract_38.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/rotate_zoompil_constract_39.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/rotate_zoompil_sharpness_1.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/rotate_zoompil_sharpness_10.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/rotate_zoompil_sharpness_16.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/rotate_zoompil_sharpness_19.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flip22.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flip27.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flip3.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flip36.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_brightness_11.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_brightness_29.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_color_10.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_color_25.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_color_32.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_color_34.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_constract_13.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_constract_2.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_constract_24.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_constract_27.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_constract_35.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_constract_4.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_constract_8.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_sharpness_12.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_sharpness_25.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_sharpness_28.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_sharpness_4.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_sharpness_7.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Army worm/vertical_flippil_sharpness_8.jpg,cotton,cotton::Army worm,Army worm,1,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/11.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/22.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/40.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/7.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_brightness_11.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_brightness_13.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_brightness_18.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_brightness_24.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_brightness_27.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_brightness_9.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_color_13.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_color_18.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_color_33.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_color_39.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_color_4.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_constract_14.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_constract_19.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_constract_24.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_constract_34.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_constract_6.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_sharpness_17.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_sharpness_24.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_sharpness_26.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_sharpness_33.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/pil_sharpness_39.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_12.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_26.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_33.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_pil_brightness_15.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_pil_brightness_19.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_pil_brightness_26.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_pil_brightness_29.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_pil_brightness_7.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_pil_color_23.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_pil_color_29.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_pil_color_33.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_pil_color_36.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_pil_constract_1.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_pil_constract_10.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_pil_constract_24.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_pil_constract_7.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_pil_constract_9.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_pil_sharpness_18.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_pil_sharpness_20.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_pil_sharpness_22.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/random_crop_pil_sharpness_7.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoom22.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoom31.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoom39.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoompil_brightness_11.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoompil_brightness_19.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoompil_brightness_21.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoompil_brightness_35.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoompil_brightness_37.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoompil_brightness_38.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoompil_color_10.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoompil_color_11.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoompil_constract_11.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoompil_constract_21.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoompil_constract_34.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoompil_constract_37.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoompil_sharpness_14.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoompil_sharpness_2.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoompil_sharpness_34.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/rotate_zoompil_sharpness_9.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/vertical_flip11.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/vertical_flip16.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/vertical_flip22.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/vertical_flip38.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/vertical_flippil_brightness_2.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/vertical_flippil_brightness_27.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/vertical_flippil_brightness_28.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/vertical_flippil_brightness_40.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/vertical_flippil_color_35.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/vertical_flippil_constract_14.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/vertical_flippil_constract_25.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/vertical_flippil_constract_5.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/vertical_flippil_sharpness_16.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Bacterial blight/vertical_flippil_sharpness_5.jpg,cotton,cotton::Bacterial blight,Bacterial blight,2,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/10.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/29.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/pil_brightness_15.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/pil_brightness_24.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/pil_color_36.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/pil_constract_11.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/pil_constract_13.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/pil_constract_21.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/pil_constract_27.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/pil_constract_28.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/pil_constract_38.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/pil_sharpness_13.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/pil_sharpness_2.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/pil_sharpness_24.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/pil_sharpness_26.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/pil_sharpness_3.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/random_crop_10.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/random_crop_20.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/random_crop_34.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/random_crop_40.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/random_crop_7.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/random_crop_pil_brightness_17.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/random_crop_pil_brightness_33.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/random_crop_pil_brightness_8.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/random_crop_pil_color_31.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/random_crop_pil_color_36.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/random_crop_pil_constract_12.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/random_crop_pil_constract_40.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/random_crop_pil_constract_8.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/random_crop_pil_sharpness_21.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/random_crop_pil_sharpness_22.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/random_crop_pil_sharpness_24.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoom11.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoom12.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoom7.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoompil_brightness_28.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoompil_brightness_30.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoompil_brightness_39.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoompil_color_31.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoompil_color_33.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoompil_color_35.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoompil_constract_11.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoompil_constract_15.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoompil_constract_23.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoompil_constract_3.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoompil_constract_36.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoompil_sharpness_10.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoompil_sharpness_11.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoompil_sharpness_28.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoompil_sharpness_3.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoompil_sharpness_31.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoompil_sharpness_39.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/rotate_zoompil_sharpness_4.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flip24.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flip27.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flip28.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flip29.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flip30.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flip32.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_brightness_10.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_brightness_11.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_brightness_27.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_brightness_32.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_brightness_33.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_brightness_4.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_brightness_5.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_brightness_7.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_color_12.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_constract_2.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_constract_38.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_constract_5.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_constract_7.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_sharpness_13.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_sharpness_15.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_sharpness_18.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_sharpness_26.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_sharpness_27.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Healthy/vertical_flippil_sharpness_34.jpg,cotton,cotton::Healthy,Healthy,3,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/17.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/22.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/36.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/pil_brightness_14.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/pil_brightness_17.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/pil_brightness_21.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/pil_brightness_26.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/pil_brightness_3.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/pil_brightness_31.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/pil_color_11.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/pil_color_17.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/pil_color_26.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/pil_constract_13.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/pil_constract_20.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/pil_constract_28.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/pil_sharpness_1.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/pil_sharpness_10.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_22.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_40.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_brightness_1.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_brightness_11.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_brightness_20.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_brightness_32.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_brightness_37.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_color_13.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_color_23.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_color_28.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_color_3.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_color_30.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_color_32.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_color_34.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_color_39.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_color_40.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_color_8.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_constract_10.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_constract_23.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_constract_25.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_constract_3.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_constract_8.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_sharpness_18.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_sharpness_27.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_sharpness_36.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_sharpness_39.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/random_crop_pil_sharpness_40.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/rotate_zoom25.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/rotate_zoom30.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/rotate_zoompil_brightness_21.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/rotate_zoompil_brightness_22.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/rotate_zoompil_brightness_32.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/rotate_zoompil_color_10.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/rotate_zoompil_color_17.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/rotate_zoompil_color_27.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/rotate_zoompil_color_39.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/rotate_zoompil_constract_3.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/rotate_zoompil_sharpness_4.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flip23.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flip24.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flip38.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flip40.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_brightness_14.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_brightness_37.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_color_17.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_color_21.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_color_26.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_color_27.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_color_30.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_color_31.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_color_33.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_color_38.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_color_40.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_color_5.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_color_6.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_constract_10.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_constract_27.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_constract_8.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_sharpness_15.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_sharpness_18.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Powdery mildew/vertical_flippil_sharpness_32.jpg,cotton,cotton::Powdery mildew,Powdery mildew,4,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/13.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/17.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/28.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/29.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/3.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/34.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/6.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_brightness_16.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_brightness_20.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_brightness_23.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_brightness_28.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_brightness_32.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_brightness_38.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_brightness_4.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_color_1.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_color_15.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_color_19.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_color_21.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_color_24.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_color_32.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_color_40.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_constract_19.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_constract_39.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_sharpness_1.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_sharpness_15.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_sharpness_16.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_sharpness_2.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_sharpness_29.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_sharpness_31.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_sharpness_39.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/pil_sharpness_9.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/random_crop_26.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/random_crop_5.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/random_crop_7.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/random_crop_pil_brightness_22.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/random_crop_pil_color_15.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/random_crop_pil_constract_20.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/random_crop_pil_constract_24.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/random_crop_pil_sharpness_19.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/random_crop_pil_sharpness_21.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/random_crop_pil_sharpness_25.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/random_crop_pil_sharpness_7.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/rotate_zoom14.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/rotate_zoom23.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/rotate_zoom30.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/rotate_zoompil_brightness_13.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/rotate_zoompil_brightness_5.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/rotate_zoompil_color_17.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/rotate_zoompil_color_3.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/rotate_zoompil_color_30.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/rotate_zoompil_color_34.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/rotate_zoompil_color_36.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/rotate_zoompil_color_40.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/rotate_zoompil_constract_14.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/rotate_zoompil_constract_15.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/rotate_zoompil_constract_32.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/rotate_zoompil_constract_33.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/rotate_zoompil_sharpness_14.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/rotate_zoompil_sharpness_40.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/vertical_flip33.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/vertical_flip35.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/vertical_flippil_brightness_2.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/vertical_flippil_brightness_22.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/vertical_flippil_color_15.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/vertical_flippil_color_20.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/vertical_flippil_color_21.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/vertical_flippil_color_32.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/vertical_flippil_color_40.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/vertical_flippil_sharpness_1.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/vertical_flippil_sharpness_11.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/vertical_flippil_sharpness_16.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/vertical_flippil_sharpness_17.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/vertical_flippil_sharpness_18.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/vertical_flippil_sharpness_34.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/vertical_flippil_sharpness_36.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/vertical_flippil_sharpness_40.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/input/datasets/dhamur/cotton-plant-disease/Cotton leaves/40 Images/Target spot/vertical_flippil_sharpness_7.jpg,cotton,cotton::Target spot,Target spot,5,1,test,,
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00000_febcb710faaf.png,cifar10,cifar10::febcb710faaffae2,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00001_da6b7bbfa8de.png,cifar10,cifar10::da6b7bbfa8de0940,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00002_020818c03cfe.png,cifar10,cifar10::020818c03cfe935f,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00003_1f4a4455ea91.png,cifar10,cifar10::1f4a4455ea912d4c,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00004_d7dd83bf5342.png,cifar10,cifar10::d7dd83bf5342f30a,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00005_8727aa4dd231.png,cifar10,cifar10::8727aa4dd23185c1,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00006_2c50d591433c.png,cifar10,cifar10::2c50d591433c29b7,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00007_48f9798a42f3.png,cifar10,cifar10::48f9798a42f3a422,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00008_47f8b8062595.png,cifar10,cifar10::47f8b80625954225,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00009_d14dd0e4dbe6.png,cifar10,cifar10::d14dd0e4dbe66190,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00010_d1031ee2278d.png,cifar10,cifar10::d1031ee2278d227a,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00011_4eee90ae9add.png,cifar10,cifar10::4eee90ae9addb95a,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00012_6ddcc733ee13.png,cifar10,cifar10::6ddcc733ee13fb67,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00013_bef9fd662bb0.png,cifar10,cifar10::bef9fd662bb001e4,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00014_965661757c29.png,cifar10,cifar10::965661757c295ed9,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00015_0f64bdda8bcc.png,cifar10,cifar10::0f64bdda8bcc9bbc,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00016_fabb17853e31.png,cifar10,cifar10::fabb17853e317b6f,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00017_873c66489ca4.png,cifar10,cifar10::873c66489ca410c3,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00018_4b00a9796771.png,cifar10,cifar10::4b00a97967713879,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00019_1871cca3d1ef.png,cifar10,cifar10::1871cca3d1ef632a,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00020_be447ff29e72.png,cifar10,cifar10::be447ff29e724af7,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00021_1df0628279ec.png,cifar10,cifar10::1df0628279ecc3b2,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00022_aef7f31bbcbb.png,cifar10,cifar10::aef7f31bbcbbe4ef,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00023_b0c432744d59.png,cifar10,cifar10::b0c432744d592059,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00024_61889de3bc7b.png,cifar10,cifar10::61889de3bc7b1603,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00025_0cea5ab0053b.png,cifar10,cifar10::0cea5ab0053be561,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00026_f4f5b72e4761.png,cifar10,cifar10::f4f5b72e47617be1,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00027_03a05ad0731c.png,cifar10,cifar10::03a05ad0731cb801,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00028_edbd89f2dd84.png,cifar10,cifar10::edbd89f2dd84b48a,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00029_b9fb13507632.png,cifar10,cifar10::b9fb13507632fce3,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00030_feacd57bc401.png,cifar10,cifar10::feacd57bc401b009,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00031_13ee894bfd01.png,cifar10,cifar10::13ee894bfd014de0,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00032_a563c4a2c120.png,cifar10,cifar10::a563c4a2c120b649,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00033_56b4fe24229d.png,cifar10,cifar10::56b4fe24229d41ea,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00034_6621b85f1eb8.png,cifar10,cifar10::6621b85f1eb82588,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00035_6d2dcb34992d.png,cifar10,cifar10::6d2dcb34992d4fef,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00036_06a9d5380852.png,cifar10,cifar10::06a9d53808525f27,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00037_06754f1121dd.png,cifar10,cifar10::06754f1121dda611,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00038_990b301ecc62.png,cifar10,cifar10::990b301ecc62886c,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00039_2eb67d4c475a.png,cifar10,cifar10::2eb67d4c475a2da0,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00040_642424085314.png,cifar10,cifar10::642424085314da8e,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00041_5e22d8d15c91.png,cifar10,cifar10::5e22d8d15c916c02,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00042_a9da8f13b2ef.png,cifar10,cifar10::a9da8f13b2efbca7,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00043_7670477c3726.png,cifar10,cifar10::7670477c3726ebad,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00044_951bc817fe4c.png,cifar10,cifar10::951bc817fe4c8608,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00045_3711725abb07.png,cifar10,cifar10::3711725abb078ded,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00046_896aad57427e.png,cifar10,cifar10::896aad57427e7b30,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00047_97d40d84b23b.png,cifar10,cifar10::97d40d84b23b23a5,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00048_d75c4d8a4383.png,cifar10,cifar10::d75c4d8a43837d9d,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00049_b0eb59dd100c.png,cifar10,cifar10::b0eb59dd100c8ec2,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00050_c6ca5b2515c0.png,cifar10,cifar10::c6ca5b2515c01d7b,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00051_477f95cc7a3c.png,cifar10,cifar10::477f95cc7a3c39ee,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00052_6e56f3cf7a78.png,cifar10,cifar10::6e56f3cf7a789707,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00053_2fa4f706be65.png,cifar10,cifar10::2fa4f706be65e1b6,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00054_6a2b27658cef.png,cifar10,cifar10::6a2b27658cef4d52,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00055_a361723b0012.png,cifar10,cifar10::a361723b0012541b,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00056_e655d87cfc56.png,cifar10,cifar10::e655d87cfc56a745,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00057_cc4d3d4114bb.png,cifar10,cifar10::cc4d3d4114bbdc2d,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00058_8faa673acb7c.png,cifar10,cifar10::8faa673acb7c866d,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00059_5db9a0422dab.png,cifar10,cifar10::5db9a0422dab21de,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00060_02bc3c4a1950.png,cifar10,cifar10::02bc3c4a1950cc3b,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00061_e0e237fa0bbe.png,cifar10,cifar10::e0e237fa0bbedea2,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00062_a1f3c98dd8db.png,cifar10,cifar10::a1f3c98dd8db8245,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00063_d97af4fd39f7.png,cifar10,cifar10::d97af4fd39f7e795,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00064_3d662990faea.png,cifar10,cifar10::3d662990faea62a2,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00065_d8975bce718c.png,cifar10,cifar10::d8975bce718c9275,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00066_b855ac61e235.png,cifar10,cifar10::b855ac61e2352036,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00067_7db838f7f5cb.png,cifar10,cifar10::7db838f7f5cbebfe,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00068_6ced96159240.png,cifar10,cifar10::6ced9615924001ad,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00069_ace4791c2466.png,cifar10,cifar10::ace4791c2466ecbf,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00070_deaeca6b4921.png,cifar10,cifar10::deaeca6b4921d601,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00071_155460ecbc9b.png,cifar10,cifar10::155460ecbc9bca0e,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00072_740b61cd196f.png,cifar10,cifar10::740b61cd196f4dcc,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00073_5b22f62ef4af.png,cifar10,cifar10::5b22f62ef4aff1b4,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00074_a67427b455b2.png,cifar10,cifar10::a67427b455b2b7ce,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00075_6afc17a6828b.png,cifar10,cifar10::6afc17a6828b53b7,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00076_3552b0fa9593.png,cifar10,cifar10::3552b0fa959340da,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00077_f563a8d2d82a.png,cifar10,cifar10::f563a8d2d82ac2f8,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00078_c2b69d774887.png,cifar10,cifar10::c2b69d774887aa24,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00079_7bc5032f54d5.png,cifar10,cifar10::7bc5032f54d55131,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00080_331c5d411d24.png,cifar10,cifar10::331c5d411d246d29,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00081_3250532d0b68.png,cifar10,cifar10::3250532d0b687ee5,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00082_78fbd0b801df.png,cifar10,cifar10::78fbd0b801dfcb8b,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00083_b5feafd23e59.png,cifar10,cifar10::b5feafd23e595a3b,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00084_63fe54c70d60.png,cifar10,cifar10::63fe54c70d60d8d2,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00085_2e577c3cb94a.png,cifar10,cifar10::2e577c3cb94a7d2b,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00086_066a283d0c89.png,cifar10,cifar10::066a283d0c8992e7,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00087_ea000645cfb0.png,cifar10,cifar10::ea000645cfb0b3df,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00088_4b8f7c16202c.png,cifar10,cifar10::4b8f7c16202cb50c,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00089_36fa033b9632.png,cifar10,cifar10::36fa033b9632de4d,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00090_fcad46a619c8.png,cifar10,cifar10::fcad46a619c86be6,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00091_b290fc477a17.png,cifar10,cifar10::b290fc477a176c14,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00092_a84114a6524b.png,cifar10,cifar10::a84114a6524b51f7,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00093_2be774acf64e.png,cifar10,cifar10::2be774acf64e497d,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00094_b9600e88fc9a.png,cifar10,cifar10::b9600e88fc9a035a,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00095_a98878bd135f.png,cifar10,cifar10::a98878bd135f33d5,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00096_7ff3a9998afc.png,cifar10,cifar10::7ff3a9998afc4e5e,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00097_f38684460575.png,cifar10,cifar10::f386844605758a3f,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00098_4b88c2f88ebd.png,cifar10,cifar10::4b88c2f88ebd7032,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00099_9782fd53dd1d.png,cifar10,cifar10::9782fd53dd1d0785,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00100_62e6bd2adf57.png,cifar10,cifar10::62e6bd2adf575fda,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00101_bfc61e53930a.png,cifar10,cifar10::bfc61e53930a1888,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00102_a6943753b7ad.png,cifar10,cifar10::a6943753b7ad4bca,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00103_5616976ce297.png,cifar10,cifar10::5616976ce2973dc6,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00104_29deb5b49f42.png,cifar10,cifar10::29deb5b49f426669,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00105_5d5111731299.png,cifar10,cifar10::5d5111731299bfba,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00106_5e2192ca9cc7.png,cifar10,cifar10::5e2192ca9cc7c9f2,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00107_4422effb129b.png,cifar10,cifar10::4422effb129be665,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00108_41722b43c3d7.png,cifar10,cifar10::41722b43c3d77494,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00109_0be4c37837df.png,cifar10,cifar10::0be4c37837dff8df,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00110_c6e94104bd17.png,cifar10,cifar10::c6e94104bd171999,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00111_0a775a5aab33.png,cifar10,cifar10::0a775a5aab330551,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00112_60c920880af3.png,cifar10,cifar10::60c920880af33bfd,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00113_03023128b9b9.png,cifar10,cifar10::03023128b9b97c95,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00114_eaa1063cec4e.png,cifar10,cifar10::eaa1063cec4e831b,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00115_1f0780ac6247.png,cifar10,cifar10::1f0780ac6247bdb0,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00116_ac0b20e52eba.png,cifar10,cifar10::ac0b20e52ebad5cf,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00117_be83bd3e22ec.png,cifar10,cifar10::be83bd3e22ec0626,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00118_1e00b51c3a89.png,cifar10,cifar10::1e00b51c3a89930d,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00119_3fae3351ce37.png,cifar10,cifar10::3fae3351ce37da3d,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00120_8aac30b31536.png,cifar10,cifar10::8aac30b31536496f,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00121_5e18206045de.png,cifar10,cifar10::5e18206045de19b4,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00122_32f42a4b9c25.png,cifar10,cifar10::32f42a4b9c25f4ba,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00123_8cdbaaed8f71.png,cifar10,cifar10::8cdbaaed8f71ffb2,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00124_c2e28f4576fb.png,cifar10,cifar10::c2e28f4576fb2393,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00125_fe9cfb5383db.png,cifar10,cifar10::fe9cfb5383db9b58,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00126_f03182599333.png,cifar10,cifar10::f03182599333d484,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00127_82e20104e94e.png,cifar10,cifar10::82e20104e94e7ab7,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00128_da857fe2f5bb.png,cifar10,cifar10::da857fe2f5bb57d6,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00129_ef951ab10e5b.png,cifar10,cifar10::ef951ab10e5b6189,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00130_a79cd87a401f.png,cifar10,cifar10::a79cd87a401fa286,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00131_90ca568d387c.png,cifar10,cifar10::90ca568d387ce6f8,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00132_52531c06b92d.png,cifar10,cifar10::52531c06b92da318,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00133_5ffe197591c3.png,cifar10,cifar10::5ffe197591c33174,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00134_aca9621ea317.png,cifar10,cifar10::aca9621ea3171c02,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00135_af7263a240bc.png,cifar10,cifar10::af7263a240bc7161,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00136_1741f330dc7d.png,cifar10,cifar10::1741f330dc7d2444,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00137_3f1d03080a82.png,cifar10,cifar10::3f1d03080a827777,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00138_2f542f8f3fbd.png,cifar10,cifar10::2f542f8f3fbd942d,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00139_cd5812b26ae1.png,cifar10,cifar10::cd5812b26ae1579c,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00140_a1175b579a2c.png,cifar10,cifar10::a1175b579a2c88d9,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00141_08465b0b5bf8.png,cifar10,cifar10::08465b0b5bf8d5e6,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00142_c8ab9f92848e.png,cifar10,cifar10::c8ab9f92848e45fd,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00143_73ced492222e.png,cifar10,cifar10::73ced492222e5798,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00144_998355a4210b.png,cifar10,cifar10::998355a4210b2f90,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00145_85b9deaa8aa9.png,cifar10,cifar10::85b9deaa8aa9f147,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00146_fd508750e235.png,cifar10,cifar10::fd508750e235e088,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00147_8e638a15472f.png,cifar10,cifar10::8e638a15472fcdef,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00148_508c4200a707.png,cifar10,cifar10::508c4200a7072b5b,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00149_913906ab65ba.png,cifar10,cifar10::913906ab65ba43a2,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00150_bf7180edabc0.png,cifar10,cifar10::bf7180edabc0d265,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00151_83bd535df2ab.png,cifar10,cifar10::83bd535df2ab235b,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00152_5f84af827622.png,cifar10,cifar10::5f84af8276223a8b,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00153_2e28426e402f.png,cifar10,cifar10::2e28426e402f5194,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00154_ae895c2bf115.png,cifar10,cifar10::ae895c2bf115e733,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00155_6cfbb9a1a40c.png,cifar10,cifar10::6cfbb9a1a40c6a38,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00156_d1f9509e97bd.png,cifar10,cifar10::d1f9509e97bd60e4,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00157_d2b0c3781c51.png,cifar10,cifar10::d2b0c3781c517a89,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00158_2683e8a1fbdd.png,cifar10,cifar10::2683e8a1fbdd39bd,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00159_3335b7bda938.png,cifar10,cifar10::3335b7bda9381fbc,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00160_22b8b0376ccd.png,cifar10,cifar10::22b8b0376ccdbab0,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00161_59170e3796e1.png,cifar10,cifar10::59170e3796e1eb65,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00162_791408b0569e.png,cifar10,cifar10::791408b0569e9f9f,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00163_54c44f8f39bf.png,cifar10,cifar10::54c44f8f39bfd992,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00164_35bf05b91490.png,cifar10,cifar10::35bf05b91490b040,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00165_d725ea8587c2.png,cifar10,cifar10::d725ea8587c21b4c,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00166_3b81da8cab9e.png,cifar10,cifar10::3b81da8cab9e70cd,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00167_5e0156baae10.png,cifar10,cifar10::5e0156baae10ec07,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00168_21876f48b1da.png,cifar10,cifar10::21876f48b1daa251,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00169_5c617c7d3203.png,cifar10,cifar10::5c617c7d3203307f,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00170_4461bef1acac.png,cifar10,cifar10::4461bef1acac025d,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00171_a49e6075dbcc.png,cifar10,cifar10::a49e6075dbcc239c,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00172_8e19234ed08e.png,cifar10,cifar10::8e19234ed08eb746,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00173_67aed31b3d4b.png,cifar10,cifar10::67aed31b3d4b45a6,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00174_ad20b75e2246.png,cifar10,cifar10::ad20b75e22461276,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00175_e6a9d6df443b.png,cifar10,cifar10::e6a9d6df443ba692,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00176_cef49afce95e.png,cifar10,cifar10::cef49afce95e5100,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00177_6fd5121fcec8.png,cifar10,cifar10::6fd5121fcec8e62b,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00178_95c717ff3c1d.png,cifar10,cifar10::95c717ff3c1dce79,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00179_e65e7053247a.png,cifar10,cifar10::e65e7053247ad38c,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00180_c4e9350245df.png,cifar10,cifar10::c4e9350245dfacce,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00181_1fc7f03fc645.png,cifar10,cifar10::1fc7f03fc645b611,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00182_101d0ad1c53b.png,cifar10,cifar10::101d0ad1c53b3f2b,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00183_36eb8416605e.png,cifar10,cifar10::36eb8416605ed19b,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00184_483c9bc826f2.png,cifar10,cifar10::483c9bc826f27a95,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00185_cd761603a38d.png,cifar10,cifar10::cd761603a38d2eb9,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00186_db0668d3a290.png,cifar10,cifar10::db0668d3a290fec9,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00187_705ce8e5e1bf.png,cifar10,cifar10::705ce8e5e1bf82e4,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00188_7bf91fe9b868.png,cifar10,cifar10::7bf91fe9b8687083,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00189_327bd5b8039c.png,cifar10,cifar10::327bd5b8039c0e11,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00190_9a7cee49ca53.png,cifar10,cifar10::9a7cee49ca533377,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00191_7ee617936ab4.png,cifar10,cifar10::7ee617936ab4ee5d,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00192_698d21aee6a9.png,cifar10,cifar10::698d21aee6a959d0,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00193_7521c774abd9.png,cifar10,cifar10::7521c774abd9b3d0,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00194_b5d43255cfa7.png,cifar10,cifar10::b5d43255cfa75bab,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00195_f3ce14d094cf.png,cifar10,cifar10::f3ce14d094cf3cdf,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00196_5c115d2952a1.png,cifar10,cifar10::5c115d2952a130a5,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00197_56ac75d05b36.png,cifar10,cifar10::56ac75d05b36978f,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00198_d44df8512e2d.png,cifar10,cifar10::d44df8512e2da88f,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00199_dfca3ae5c759.png,cifar10,cifar10::dfca3ae5c7590401,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00200_f9662388ffe8.png,cifar10,cifar10::f9662388ffe827ab,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00201_b2dda26abd31.png,cifar10,cifar10::b2dda26abd312de2,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00202_0c3465d32c4e.png,cifar10,cifar10::0c3465d32c4ebdd5,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00203_558c900e7dad.png,cifar10,cifar10::558c900e7dadeea7,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00204_e672be131276.png,cifar10,cifar10::e672be131276e857,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00205_4c43b91d3dd0.png,cifar10,cifar10::4c43b91d3dd04136,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00206_7bb510b10c44.png,cifar10,cifar10::7bb510b10c448462,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00207_ac695133de46.png,cifar10,cifar10::ac695133de463706,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00208_d70c881cb3bb.png,cifar10,cifar10::d70c881cb3bbf420,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00209_4b228fd738b7.png,cifar10,cifar10::4b228fd738b7d6b6,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00210_d972fabaa1d9.png,cifar10,cifar10::d972fabaa1d9dbe3,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00211_19f5d407f2a8.png,cifar10,cifar10::19f5d407f2a8099e,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00212_63706fe387a3.png,cifar10,cifar10::63706fe387a366d4,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00213_e66adc02d928.png,cifar10,cifar10::e66adc02d92839a9,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00214_695c2304eeda.png,cifar10,cifar10::695c2304eeda63e1,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00215_66b479f94ab7.png,cifar10,cifar10::66b479f94ab7675a,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00216_2f8729b87291.png,cifar10,cifar10::2f8729b87291e869,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00217_78188d8d9a05.png,cifar10,cifar10::78188d8d9a056d0a,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00218_6138e68ad3fe.png,cifar10,cifar10::6138e68ad3fe97b3,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00219_ff36ae94237d.png,cifar10,cifar10::ff36ae94237dbb88,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00220_5d4c82703bb2.png,cifar10,cifar10::5d4c82703bb2e937,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00221_c12f9ce85f24.png,cifar10,cifar10::c12f9ce85f24363c,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00222_edda523d8acf.png,cifar10,cifar10::edda523d8acf3d78,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00223_3293797ba974.png,cifar10,cifar10::3293797ba974cbf7,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00224_0ed3c2d4ec5b.png,cifar10,cifar10::0ed3c2d4ec5b2814,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00225_bfbb70458cb1.png,cifar10,cifar10::bfbb70458cb14fb9,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00226_3a276d3f413c.png,cifar10,cifar10::3a276d3f413c3f75,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00227_d8e41f1975f1.png,cifar10,cifar10::d8e41f1975f1d608,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00228_301854b2f4c7.png,cifar10,cifar10::301854b2f4c7e547,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00229_7d88e94946f0.png,cifar10,cifar10::7d88e94946f0284c,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00230_f73f1a0a9447.png,cifar10,cifar10::f73f1a0a9447a2ba,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00231_7239fd97093e.png,cifar10,cifar10::7239fd97093e7b1a,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00232_f3502873920d.png,cifar10,cifar10::f3502873920da698,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00233_44c1d7ff5f39.png,cifar10,cifar10::44c1d7ff5f392712,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00234_7023e88098f1.png,cifar10,cifar10::7023e88098f1122a,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00235_e95fa3ebf8fc.png,cifar10,cifar10::e95fa3ebf8fc2cc7,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00236_f8472022f9d8.png,cifar10,cifar10::f8472022f9d854be,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00237_7f2e929af82c.png,cifar10,cifar10::7f2e929af82c1bec,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00238_6b7019645ef0.png,cifar10,cifar10::6b7019645ef03968,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00239_32cdc2b3f425.png,cifar10,cifar10::32cdc2b3f4255cf2,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00240_3bfbdb8278aa.png,cifar10,cifar10::3bfbdb8278aadf35,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00241_77e90a0d0430.png,cifar10,cifar10::77e90a0d0430b081,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00242_404214c70bd2.png,cifar10,cifar10::404214c70bd24eb4,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00243_50cf474710c7.png,cifar10,cifar10::50cf474710c73c8f,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00244_bc21d0409cbe.png,cifar10,cifar10::bc21d0409cbe3850,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00245_4e5d1c3e1ca6.png,cifar10,cifar10::4e5d1c3e1ca6b92b,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00246_112b6f50d5b4.png,cifar10,cifar10::112b6f50d5b451ad,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00247_6ab64ac5b898.png,cifar10,cifar10::6ab64ac5b898fad1,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00248_bbc93bd846a9.png,cifar10,cifar10::bbc93bd846a936b7,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00249_4832ebd6c8fc.png,cifar10,cifar10::4832ebd6c8fcd0ce,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00250_2ad6f308f5ef.png,cifar10,cifar10::2ad6f308f5efac80,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00251_69c7b84568fc.png,cifar10,cifar10::69c7b84568fc7c80,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00252_757e45aaf567.png,cifar10,cifar10::757e45aaf5674e6b,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00253_bdcba7de5769.png,cifar10,cifar10::bdcba7de57697991,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00254_6f485bcb7077.png,cifar10,cifar10::6f485bcb7077811e,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00255_239382b3dd6c.png,cifar10,cifar10::239382b3dd6cfb47,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00256_c310eb458e41.png,cifar10,cifar10::c310eb458e419410,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00257_3502e59d6037.png,cifar10,cifar10::3502e59d60375b70,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00258_1da9ade97cb0.png,cifar10,cifar10::1da9ade97cb00fcf,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00259_1c25802deb0c.png,cifar10,cifar10::1c25802deb0cccca,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00260_d4065f7be590.png,cifar10,cifar10::d4065f7be590f3b1,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00261_525502d0e957.png,cifar10,cifar10::525502d0e957c1d7,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00262_0e480fdea950.png,cifar10,cifar10::0e480fdea950aa73,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00263_d75622bb586e.png,cifar10,cifar10::d75622bb586ecd24,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00264_055673036165.png,cifar10,cifar10::0556730361651acf,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00265_3e2ea874bd26.png,cifar10,cifar10::3e2ea874bd261bed,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00266_55f5b1b79e26.png,cifar10,cifar10::55f5b1b79e26a7f1,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00267_977583dba68f.png,cifar10,cifar10::977583dba68f57f1,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00268_bb88d4909199.png,cifar10,cifar10::bb88d49091994377,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00269_b31a7209b8cd.png,cifar10,cifar10::b31a7209b8cdb79f,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00270_8406b10529eb.png,cifar10,cifar10::8406b10529eb2af1,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00271_e468b1140f81.png,cifar10,cifar10::e468b1140f817819,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00272_c25dd5f4510f.png,cifar10,cifar10::c25dd5f4510f5c7a,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00273_397f27afeaa8.png,cifar10,cifar10::397f27afeaa8b634,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00274_4d8063775458.png,cifar10,cifar10::4d8063775458a9a4,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00275_e198c6080f4a.png,cifar10,cifar10::e198c6080f4a63fc,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00276_b8ec84cd7c60.png,cifar10,cifar10::b8ec84cd7c60758f,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00277_5a1a0cf96fa1.png,cifar10,cifar10::5a1a0cf96fa180ad,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00278_9337529d910b.png,cifar10,cifar10::9337529d910bcc2d,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00279_5dd7aa0259c8.png,cifar10,cifar10::5dd7aa0259c86ca3,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00280_c90586f9c7ac.png,cifar10,cifar10::c90586f9c7acb821,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00281_f9ad70bd0c67.png,cifar10,cifar10::f9ad70bd0c670fea,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00282_e699f77965b5.png,cifar10,cifar10::e699f77965b5c859,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00283_230d62cf8b40.png,cifar10,cifar10::230d62cf8b409fbd,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00284_3dc597d07305.png,cifar10,cifar10::3dc597d07305887d,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00285_2c92ec6aa2d8.png,cifar10,cifar10::2c92ec6aa2d8f6d8,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00286_13417bdc8e19.png,cifar10,cifar10::13417bdc8e19d0f7,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00287_0a9ed5f20d0e.png,cifar10,cifar10::0a9ed5f20d0eb5ea,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00288_74da6c355610.png,cifar10,cifar10::74da6c35561036cd,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00289_2dd199d72996.png,cifar10,cifar10::2dd199d7299693e1,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00290_58fe612c335e.png,cifar10,cifar10::58fe612c335eaef6,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00291_ef6a0e165c0d.png,cifar10,cifar10::ef6a0e165c0d0f17,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00292_0775ae58c040.png,cifar10,cifar10::0775ae58c0405523,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00293_6410aace6ec6.png,cifar10,cifar10::6410aace6ec68f5a,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00294_06263bd33110.png,cifar10,cifar10::06263bd33110e75c,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00295_b55f22d23d98.png,cifar10,cifar10::b55f22d23d987229,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00296_a3b0672fd1f3.png,cifar10,cifar10::a3b0672fd1f38d61,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00297_bc126fb3ed13.png,cifar10,cifar10::bc126fb3ed136a31,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00298_f1ea6eb9845b.png,cifar10,cifar10::f1ea6eb9845bcd91,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00299_a1cb0a28868e.png,cifar10,cifar10::a1cb0a28868e4031,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00300_5668746ff63e.png,cifar10,cifar10::5668746ff63ed303,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00301_a59191eeb303.png,cifar10,cifar10::a59191eeb3032d1c,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00302_ae67c07fbc62.png,cifar10,cifar10::ae67c07fbc6285ea,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00303_c9214c7ce60f.png,cifar10,cifar10::c9214c7ce60f70db,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00304_0a2bf0a9715a.png,cifar10,cifar10::0a2bf0a9715a14e5,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00305_703bbfb1174f.png,cifar10,cifar10::703bbfb1174f5e80,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00306_aff75de91e75.png,cifar10,cifar10::aff75de91e755313,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00307_df9064ff8e50.png,cifar10,cifar10::df9064ff8e505094,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00308_adc475bda5d8.png,cifar10,cifar10::adc475bda5d85644,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00309_0bb2b0dde0dd.png,cifar10,cifar10::0bb2b0dde0ddcac5,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00310_6f25839fd256.png,cifar10,cifar10::6f25839fd256be83,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00311_b8b053f9877d.png,cifar10,cifar10::b8b053f9877d0e1b,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00312_a153736f4da2.png,cifar10,cifar10::a153736f4da2f6f0,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00313_8726dfb09027.png,cifar10,cifar10::8726dfb09027e5b1,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00314_a774c0b96542.png,cifar10,cifar10::a774c0b9654296db,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00315_be898f414977.png,cifar10,cifar10::be898f414977227d,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00316_7c6313ff8d99.png,cifar10,cifar10::7c6313ff8d99d368,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00317_d796dfaa8eb4.png,cifar10,cifar10::d796dfaa8eb4a68b,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00318_265d552d4f11.png,cifar10,cifar10::265d552d4f11798b,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00319_fb1e48ac5537.png,cifar10,cifar10::fb1e48ac55375f61,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00320_01787ae0daff.png,cifar10,cifar10::01787ae0daffa0e4,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00321_be51bcfd4bdc.png,cifar10,cifar10::be51bcfd4bdc7fa8,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00322_2f521a1c3441.png,cifar10,cifar10::2f521a1c344171bf,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00323_0054368806f3.png,cifar10,cifar10::0054368806f3343b,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00324_d0380df32606.png,cifar10,cifar10::d0380df32606d746,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00325_f2f88f0c1632.png,cifar10,cifar10::f2f88f0c16324e3a,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00326_1e00f07b3f49.png,cifar10,cifar10::1e00f07b3f49e3df,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00327_a56400e47624.png,cifar10,cifar10::a56400e47624710e,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00328_14d48355af0c.png,cifar10,cifar10::14d48355af0c44be,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00329_8fc3398f2f5b.png,cifar10,cifar10::8fc3398f2f5b4651,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00330_372e9b50697a.png,cifar10,cifar10::372e9b50697a8c88,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00331_f7b30c13be2f.png,cifar10,cifar10::f7b30c13be2ffad6,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00332_1e843428e535.png,cifar10,cifar10::1e843428e5350617,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00333_6884057fead8.png,cifar10,cifar10::6884057fead88223,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00334_1f67ef3b2e78.png,cifar10,cifar10::1f67ef3b2e78fc18,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00335_d728663c231a.png,cifar10,cifar10::d728663c231ab24d,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00336_66cd10bdfd57.png,cifar10,cifar10::66cd10bdfd57b418,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00337_9de756443746.png,cifar10,cifar10::9de756443746132d,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00338_b78572ae4c8f.png,cifar10,cifar10::b78572ae4c8fcd91,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00339_906656f4b4b2.png,cifar10,cifar10::906656f4b4b2b692,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00340_05fe15d4873e.png,cifar10,cifar10::05fe15d4873eadbb,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00341_9f00a7346fbe.png,cifar10,cifar10::9f00a7346fbe888c,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00342_fe8def3aaf02.png,cifar10,cifar10::fe8def3aaf022f5a,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00343_f57703d829f2.png,cifar10,cifar10::f57703d829f2a406,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00344_3b9985ba3ed7.png,cifar10,cifar10::3b9985ba3ed74ab0,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00345_41c7c7304e6b.png,cifar10,cifar10::41c7c7304e6bbc98,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00346_babd504f3475.png,cifar10,cifar10::babd504f3475eb8c,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00347_748043c3e43e.png,cifar10,cifar10::748043c3e43e906c,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00348_47044764168e.png,cifar10,cifar10::47044764168e1645,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00349_159367c42d1b.png,cifar10,cifar10::159367c42d1bfed4,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00350_e7ca006fc93c.png,cifar10,cifar10::e7ca006fc93c61bc,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00351_1e879e119d56.png,cifar10,cifar10::1e879e119d5605d9,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00352_61087fa788b0.png,cifar10,cifar10::61087fa788b001e5,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00353_83621f688c91.png,cifar10,cifar10::83621f688c91b8de,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00354_f4b49868535d.png,cifar10,cifar10::f4b49868535dc456,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00355_053681b42b48.png,cifar10,cifar10::053681b42b480086,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00356_25c4e1348e60.png,cifar10,cifar10::25c4e1348e60caf3,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00357_8b5c4f81e03e.png,cifar10,cifar10::8b5c4f81e03e2fde,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00358_f617342c7729.png,cifar10,cifar10::f617342c77296069,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00359_d3ac2fdc41ee.png,cifar10,cifar10::d3ac2fdc41ee0fa2,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00360_7634fbcd4afc.png,cifar10,cifar10::7634fbcd4afcaa81,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00361_b9916c2c9606.png,cifar10,cifar10::b9916c2c9606aba4,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00362_aa7768b9f24f.png,cifar10,cifar10::aa7768b9f24f77a1,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00363_7e2186a94071.png,cifar10,cifar10::7e2186a940712326,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00364_d41d83f62bcc.png,cifar10,cifar10::d41d83f62bcc303d,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00365_127acaa99a23.png,cifar10,cifar10::127acaa99a238dcb,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00366_791dc477a8b6.png,cifar10,cifar10::791dc477a8b6d6f9,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00367_ec837082b25f.png,cifar10,cifar10::ec837082b25fa979,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00368_d13989b400a0.png,cifar10,cifar10::d13989b400a0fa3f,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00369_a6008e1794da.png,cifar10,cifar10::a6008e1794da9b1b,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00370_d43a98a9afec.png,cifar10,cifar10::d43a98a9afec0da8,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00371_ba709f61fa08.png,cifar10,cifar10::ba709f61fa08efd9,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00372_bda592559cfe.png,cifar10,cifar10::bda592559cfebb33,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00373_1a4b3ce8da49.png,cifar10,cifar10::1a4b3ce8da4900ad,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00374_03171f2d554c.png,cifar10,cifar10::03171f2d554c5a24,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00375_a17b2b45ce18.png,cifar10,cifar10::a17b2b45ce188f8f,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00376_9187ebca8c6c.png,cifar10,cifar10::9187ebca8c6c2806,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00377_ea431a701371.png,cifar10,cifar10::ea431a70137115eb,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00378_4ed350525b74.png,cifar10,cifar10::4ed350525b74797a,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00379_e82fe1e0ffe4.png,cifar10,cifar10::e82fe1e0ffe4f83f,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00380_454e9f90b53a.png,cifar10,cifar10::454e9f90b53a99d8,Unclassified,6,0,test,animal,cat
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00381_7831f922b56d.png,cifar10,cifar10::7831f922b56dd1a1,Unclassified,6,0,test,animal,dog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00382_880c505cf9ff.png,cifar10,cifar10::880c505cf9ff4ffc,Unclassified,6,0,test,object_vehicle,airplane
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00383_f1845983a342.png,cifar10,cifar10::f1845983a3427c8f,Unclassified,6,0,test,animal,horse
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00384_0f507bb8d48d.png,cifar10,cifar10::0f507bb8d48d852a,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00385_909281fae196.png,cifar10,cifar10::909281fae1964c6c,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00386_efc4133aedeb.png,cifar10,cifar10::efc4133aedebf2df,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00387_0a4e4d44a4a1.png,cifar10,cifar10::0a4e4d44a4a1fc8d,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00388_8a1570b32f81.png,cifar10,cifar10::8a1570b32f810c7f,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00389_0046fb30cac9.png,cifar10,cifar10::0046fb30cac9f755,Unclassified,6,0,test,object_vehicle,truck
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00390_1b063499c0e4.png,cifar10,cifar10::1b063499c0e486ea,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00391_d6e217b76306.png,cifar10,cifar10::d6e217b7630644f3,Unclassified,6,0,test,animal,bird
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00392_e43eb1b0083a.png,cifar10,cifar10::e43eb1b0083ad5b8,Unclassified,6,0,test,animal,deer
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00393_393618ab476d.png,cifar10,cifar10::393618ab476ddf90,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00394_8cd4f1902363.png,cifar10,cifar10::8cd4f19023636120,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00395_cf8337be3ada.png,cifar10,cifar10::cf8337be3adaba8a,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00396_3a45edbea562.png,cifar10,cifar10::3a45edbea5624e10,Unclassified,6,0,test,object_vehicle,automobile
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00397_3fc050713a65.png,cifar10,cifar10::3fc050713a65124a,Unclassified,6,0,test,object_vehicle,ship
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00398_0d114e8b1064.png,cifar10,cifar10::0d114e8b1064ac44,Unclassified,6,0,test,animal,frog
+/kaggle/working/exp02_robust_open_set/unknown_sources/cifar10/test/00399_932b407fa1cc.png,cifar10,cifar10::932b407fa1cc88b2,Unclassified,6,0,test,object_vehicle,automobile

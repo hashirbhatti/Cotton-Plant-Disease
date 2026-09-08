@@ -1,0 +1,8 @@
+,Aphids,Army worm,Bacterial blight,Healthy,Powdery mildew,Target spot,Unclassified
+Aphids,78,0,0,0,0,0,0
+Army worm,0,78,0,0,0,0,0
+Bacterial blight,0,0,78,0,1,0,0
+Healthy,0,1,0,77,0,0,0
+Powdery mildew,0,0,0,0,77,1,0
+Target spot,0,0,1,0,0,76,0
+Unclassified,0,0,0,0,0,0,400
