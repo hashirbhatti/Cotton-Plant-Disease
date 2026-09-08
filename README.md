@@ -1,4 +1,3 @@
-
 # Cotton Plant Disease Detector
 
 Welcome to the Cotton Plant Disease Detector project repository! This project is an end-to-end Machine Learning solution designed to classify cotton plant diseases based on images of cotton plant leaves. The project includes a deep convolutional neural network model with an impressive accuracy of 97%. Additionally, I have developed a web application with both a user-friendly frontend and a robust API to showcase the model's capabilities.
