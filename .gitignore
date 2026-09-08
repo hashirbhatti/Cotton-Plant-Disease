@@ -45,6 +45,9 @@ Thumbs.db
 # Legacy artifacts
 models/legacy/
 
+# Test datasets
+models/robust/unknown_sources/
+
 # Logs
 *.log
 logs/
