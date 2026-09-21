@@ -1,9 +1,11 @@
 services:
   - type: web
     name: cotton-disease-backend
-    env: python
+    runtime: python
     region: singapore
     plan: free
-    pythonVersion: "3.11"
     buildCommand: pip install -r api/requirements.txt
-    startCommand: cd api && python main.py
+    startCommand: python api/main.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.10
